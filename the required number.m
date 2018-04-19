@@ -1,0 +1,1 @@
+clccleara=input('The required number is');a=1% while loop execution while sqrt(a/13/16)<=120    fpintf('value of a: %d',a);    a=a+1    if sqrt(a/13/16)>120    %terminate the loop using break statement     break;     end   end    

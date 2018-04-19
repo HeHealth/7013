@@ -1,0 +1,1 @@
+grade= 'b'   switch(grade)   case'a'      fprintf('Exenllent');   case'b'      fprintf('well done');   case'c'      fprintf('normal');   otherwise       fprintf('invalid grade');     end        fprintf(' addition the grade is%s\n')     

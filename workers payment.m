@@ -1,0 +1,1 @@
+clccleart = input('Enter the number of hours")h = input('Enter the hourly wages')pay = t*h;if t > 48  pay = pay + (t - 40) * 0.5 * h;end 

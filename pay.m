@@ -1,0 +1,1 @@
+clccleart=input('Enter the number of hours:');h=input('Enter the hourly wage:');pay=t*h;if t>40pay=pay+(t-40)*0.5*h;endfprintf(' The worker''s pay is $ %5.2f. \n', pay)
